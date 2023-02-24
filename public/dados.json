@@ -1,0 +1,61 @@
+[{
+        "id": 0,
+        "name": "COINS 10, 15 AND 20 YEARS",
+        "urlImg": "/img/coin.2e8a66e0.png",
+        "description": "Coins: (Bronze) (Silver) (Gold)",
+        "details": "10 Years Coin (Bronze). \n 15 Years Coin (Silver). \n 20 Years Coin (Gold).",
+        "dimension": "-",
+        "material": "-",
+        "productionTime": "-",
+        "inSale": false,
+        "price": "R$ 1.250,00"
+    },
+    {
+        "id": 1,
+        "name": "ROBERT BOSCH BUST",
+        "urlImg": "/img/robertBosch.ed521dae.png",
+        "description": "Robert Bosch Bust in Bronze",
+        "details": "Replica of the Robert Bosch bust, machined in bronze. Base in black acrylic - 140x98x15. Chalkboard with custom dedication message. Matt black box included for delivery.",
+        "dimension": "Base(140x98x15) Bust(90)",
+        "material": "Acrylic, Bronze",
+        "productionTime": "4 Weeks",
+        "inSale": true,
+        "price": "R$ 1.100,00"
+    },
+    {
+        "id": 2,
+        "name": "CA 401 REPLICA (ALUMINUM)",
+        "urlImg": "/img/CA401.6ed002ae.png",
+        "description": "A Machined Aluminum CA401 Replica",
+        "details": "Replica of the CA-401 machined in Aluminum. Base in black acrylic - 140x98x15. Board with personalized dedication message. Black matte box included for delivery.",
+        "dimension": "Base(140x98x15) Ca401(77)",
+        "material": "Acrylic, Aluminum",
+        "productionTime": "3 Weeks",
+        "inSale": true,
+        "price": "R$ 4.500,00"
+    },
+    {
+        "id": 3,
+        "name": "CA 401 REPLICA (3D PRINT)",
+        "urlImg": "/img/CA401-3D.efeceeae.png",
+        "description": "A 3D Printed CA401 Replica",
+        "details": "Replica of the CA-401 made in ABS 3D printer. Base in black acrylic - 140x98x15. Board with personalized dedication message. Black matte box included for delivery.",
+        "dimension": "Base (140x98x15) Ca401(77)",
+        "material": "Acrylic, 3D Print Filament",
+        "productionTime": "2 Weeks",
+        "inSale": true,
+        "price": "R$ 500,00"
+    },
+    {
+        "id": 4,
+        "name": "40 YEARS JUBILEE",
+        "urlImg": "/img/40years.157d9ae9.png",
+        "description": "Jubilee 40-year-old Commemoration",
+        "details": "40 Years Jubilee Award RBLA / P. Base in black acrylic. Personalized sticker with the honoree's name. Black matte box included for delivery.",
+        "dimension": "X",
+        "material": "Acrylic",
+        "productionTime": "4 Weeks",
+        "inSale": true,
+        "price": "R$ 350,00"
+    }
+]

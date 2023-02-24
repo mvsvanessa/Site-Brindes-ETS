@@ -1,0 +1,92 @@
+.background {
+    background-color: #0fa8a8;
+    width: 100%;
+    height: 700px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    display: grid;
+    border-top: 3px solid #6d9090;
+    border-bottom: 3px solid #6d9090;
+}
+
+.container {
+    width: 100%;
+    max-width: 1px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carrossel {
+    cursor: grab;
+    overflow: hidden;
+}
+
+.inner {
+    display: flex;
+}
+
+.card {
+    min-width: 600px;
+    min-height: 450px;
+    border-radius: 10px;
+    margin: 10px;
+    border: 2px solid rgba(0, 128, 128, 0.212);
+    background-color: white;
+    font-size: smaller;
+}
+
+.button {
+    background-color: #0e7e7e;
+    border: 1px solid #939393;
+    color: white;
+    padding: 10px 24px;
+    font-size: 16px;
+    width: 300px;
+    margin-left: 155px;
+    margin-top: 270px;
+    cursor: pointer;
+}
+
+.name {
+    font-size: x-large;
+    margin: 20px;
+}
+
+.description {
+    font-size: large;
+    margin-top: 8px;
+}
+
+.price {
+    font-size: medium;
+    margin-top: 8px;
+    color: rgb(25, 190, 25);
+    font-weight: bold;
+}
+
+.details {
+    font-size: small;
+    margin-top: 8px;
+    color: black;
+    font-weight: bolder;
+}
+
+.dimension {
+    font-size: small;
+    margin-top: 8px;
+    color: black;
+}
+
+.material {
+    font-size: small;
+    margin-top: 8px;
+    color: black;
+}
+
+.productiontime {
+    font-size: small;
+    margin-top: 8px;
+    color: black;
+}
