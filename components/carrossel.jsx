@@ -44,10 +44,9 @@ export default function Carrossel(){
                     <motion.div className={styles.inner} drag = "x" dragConstraints={{right:0, left:-2450}}>
                             {data.map(brinde=>(
                                 <motion.div className={styles.card}key={brinde.id}>
+                                    <div className={styles.conteudo}>
                                     <h1 className={styles.name}>
                                         {brinde.name}
-                                        <p className={styles.description}>
-                                            {brinde.description}</p>
                                         <p className={styles.details}>
                                                 {brinde.details}</p>
                                         <p className={styles.dimension}>
@@ -58,10 +57,20 @@ export default function Carrossel(){
                                             {brinde.productionTime}</p>
                                         <p className={styles.price}>
                                             {brinde.price}</p>
+                                            <Image className={styles.images}
+                                            src={brinde.urlImg} 
+                                            width={240}
+                                            height={240}
+                                            alt={brinde.name}
+                                        />
+
                                     </h1>
+                                    </div>
+                                    <div className={styles.botao}>
                                     <button className={styles.button}onClick = {() => setView(!view)}>
                                         VIEW
                                     </button>
+                                    </div>
                                 </motion.div>
                             ))
                     }</motion.div>
