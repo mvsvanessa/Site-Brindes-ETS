@@ -4,3 +4,7 @@
     margin: 0px;
     padding: 0px;
 }
+
+@media only screen and (max-device-width: 900px) {
+    /* .menu { width:100%; } */
+}

@@ -1,0 +1,45 @@
+.container {
+    position: fixed;
+    background-color: #f1f1f2;
+    width: 80%;
+    height: 300px;
+    margin: 90px auto;
+    margin-left: 120px;
+}
+
+.containerinner {
+    width: 90%;
+    margin-left: 50px;
+    margin-top: 35px;
+}
+
+.titles {
+    color: black;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-left: 30px;
+}
+
+.subtitle {
+    color: black;
+    font-size: medium;
+    font-weight: 100;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.blue {
+    color: rgb(0, 153, 205);
+    font-size: large;
+    font-weight: 200;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.text {
+    color: black;
+    font-size: medium;
+    font-weight: 100;
+    margin-left: 30px;
+    margin-top: 10px;
+}
